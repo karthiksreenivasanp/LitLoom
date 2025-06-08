@@ -106,20 +106,20 @@ If you want to run the application from the `LitLoom.py` script:
 The repository is organized to keep the code and its resources clean and accessible. The `assets` folder is crucial for the application's appearance and functionality.
 
 
-LitLoom/
-├── LitLoom.py           # The main application script
-├── assets/              # Folder for all external resources
-│   ├── fonts/
-│   │   ├── NotoSans-Regular.ttf
-│   │   └── NotoSans-Bold.ttf
-│   ├── background.jpeg
-│   ├── bg.jpeg
-│   ├── open-book.png
-│   ├── Quill With Ink.png
-│   ├── LitLoom.png
-│   ├── Sound I.png
-│   └── Sound II.png
-└── README.md            # This file
+*LitLoom/
+*├── LitLoom.py           # The main application script
+*├── assets/              # Folder for all external resources
+*│   ├── fonts/
+*│   │   ├── NotoSans-Regular.ttf
+*│   │   └── NotoSans-Bold.ttf
+*│   ├── background.jpeg
+*│   ├── bg.jpeg
+*│   ├── open-book.png
+*│   ├── Quill With Ink.png
+*│   ├── LitLoom.png
+*│   ├── Sound I.png
+*│   └── Sound II.png
+*└── README.md            # This file
 
 
 ---
